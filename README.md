@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrbinsk
-- 👀 I’m interested in signing up for things that i don't completely understand
-- 🌱 I’m currently learning about alterative microblogging social media
-- 💞️ I’m not current looking to collaborate on
+- 👀 I’m interested in signing up for things that I don't completely understand
+- 🌱 I’m currently learning about alternative microblogging social media
+- 💞️ I’m not current looking to collaborate rn.
 - 📫 How to reach me: https://infosec.exchange/@binsk
 
 <!---
